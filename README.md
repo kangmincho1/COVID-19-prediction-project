@@ -1,1 +1,1 @@
-# COVID-19-prediction-project
+# Interregional-Correlation-Analysis-of-Conronavirus-Confirmed-Cases-using-LSTM
